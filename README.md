@@ -41,7 +41,7 @@ Trail Guardian is an app created to support hikers and wildlife explorers by off
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/trail-guardian.git
+   git clone https://github.com/yourusername/TrailGuardian.git
 2. Open the project in your preferred IDE.
 3. Build and run the application on an Android device or emulator.
 
