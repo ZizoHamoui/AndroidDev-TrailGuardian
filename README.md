@@ -3,9 +3,9 @@ Trail Guardian is an app created to support hikers and wildlife explorers by off
 
 Features
 
-Login Activity
-Secure login using email and password.
-Data validation with SQLite database.
+/n Login Activity
+/n Secure login using email and password.
+/n Data validation with SQLite database.
 
 Registration Activity
 User registration with data storage in SQLite database.
